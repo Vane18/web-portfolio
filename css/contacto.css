@@ -218,6 +218,9 @@ h1 {
     text-decoration: none;
 }
 
+textarea {
+    resize: none;
+}
 
 footer {
     background-color: #000000;
